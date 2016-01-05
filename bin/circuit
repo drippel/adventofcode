@@ -1,0 +1,58 @@
+lx -> a
+lw OR lv -> lx
+lc LSHIFT 1 -> lw
+lb OR la -> lc
+kh LSHIFT 1 -> lb
+kg OR kf -> kh
+jm LSHIFT 1 -> kg
+jl OR jk -> jm
+ir LSHIFT 1 -> jl
+iq OR ip -> ir
+hw LSHIFT 1 -> iq
+hv OR hu -> hw
+hb LSHIFT 1 -> hv
+ha OR gz -> hb
+gg LSHIFT 1 -> ha
+gf OR ge -> gg
+fl LSHIFT 1 -> gf
+fk OR fj -> fl
+eq LSHIFT 1 -> fk
+ep OR eo -> eq
+dv LSHIFT 1 -> ep
+du OR dt -> dv
+da LSHIFT 1 -> du
+cz OR cy -> da
+cf LSHIFT 1 -> cz
+ce OR cd -> cf
+bk LSHIFT 1 -> ce
+bj OR bi -> bk
+ap LSHIFT 1 -> bj
+
+ao OR an -> ap
+u LSHIFT 1 -> ao
+t OR s -> u
+c LSHIFT 1 -> t
+0 -> c
+1 AND r -> s
+o AND q -> r
+b OR n -> o
+44430 -> b
+k AND m -> n
+d OR j -> k
+b RSHIFT 2 -> d
+g AND i -> j
+e OR f -> g
+b RSHIFT 3 -> e
+b RSHIFT 5 -> f
+NOT h -> i
+e AND f -> h
+NOT l -> m
+d AND j -> l
+NOT p -> q
+b AND n -> p
+1 AND am -> an
+aj AND al -> am
+
+
+was
+44430 -> b
